@@ -32,7 +32,25 @@
 
 ##CONDICIONAL-WHEN
 
-1.<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/3f16250d-6a95-4769-a0a8-f79a6cd3234e" />
+1.VARIBLE DIA
+
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/3f16250d-6a95-4769-a0a8-f79a6cd3234e" />
+
+2. VARIABLES PIEDRA, PAPEL Y TIJERA.
+
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/05b836f0-0e17-43fd-90d5-4055bee87e5b" />
+
+3.VARIBLE DE NUMERO DE MES.
+
+<img width="1918" height="888" alt="image" src="https://github.com/user-attachments/assets/a5f859e0-be50-4045-bf29-149b3e64179d" />
+4.VARIABLE DE NOTAS
+
+<img width="1918" height="936" alt="image" src="https://github.com/user-attachments/assets/1af50272-f0cc-45bf-9eb0-4edb3883d0cc" />
+
+##CICLOS-FOR
+
+
+
 
 
 
