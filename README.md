@@ -13,7 +13,29 @@
 <img width="1888" height="877" alt="image" src="https://github.com/user-attachments/assets/1c4bfccb-5b34-415f-969b-29a8ff464ad6" />
 
    ##CONDICIONALES- IF
-   1.
+   
+1.Varible Edad.
+
    <img width="1851" height="926" alt="image" src="https://github.com/user-attachments/assets/4bbd2a40-d87c-46db-bdfd-4b5ab6e67f96" />
+2.Variable Nota
+
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/cf804f02-714b-41bf-8c7a-e0dc2fb30587" />
+3.VARIBLE NUMERO.
+
+<img width="1915" height="946" alt="image" src="https://github.com/user-attachments/assets/930b96e7-6e55-47eb-8f74-d6e4c76fb809" />
+4.VARIABLE NUMERO PAR / IMPAR.
+
+<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/750e3305-6094-4f59-9c2e-0da0541e79fd" />
+5.VARIABLE DE TEMPERATURA.
+
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/9b166294-928f-40bd-abf3-3b3b38bf0f14" />
+
+##CONDICIONAL-WHEN
+
+1.<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/3f16250d-6a95-4769-a0a8-f79a6cd3234e" />
+
+
+
+
 
 
