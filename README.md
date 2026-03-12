@@ -49,6 +49,27 @@
 
 ##CICLOS-FOR
 
+1. VARIBLE 1-10
+   
+<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/da116a63-93f9-4723-937b-db8c6be7444f" />
+
+2. IMPRIMIR NOMBRE 5 VECES:
+
+   <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/10913bc1-d3f1-40be-a912-97fcf81de9c6" />
+
+ 3.IMPRIMIR LOS NUMEROS DEL  1 AL 20.
+
+ <img width="1911" height="1078" alt="image" src="https://github.com/user-attachments/assets/7229ce48-2d99-403f-9dd6-2fa6ba6d3e66" />
+
+ 4. Usa for para sumar los números del 1 al 10 y mostrar el resultado final.
+
+    <img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/1fb5a88c-58b4-40c0-90e0-729e06f7b2af" />
+
+##PROBLEMAS COMBINADOS
+
+
+
+
 
 
 
