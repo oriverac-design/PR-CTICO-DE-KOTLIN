@@ -12,4 +12,4 @@
 6. varibales de video juego
 <img width="1888" height="877" alt="image" src="https://github.com/user-attachments/assets/1c4bfccb-5b34-415f-969b-29a8ff464ad6" />
 
-
+##Condicionales IF
