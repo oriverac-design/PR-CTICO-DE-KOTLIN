@@ -67,6 +67,22 @@
 
 ##PROBLEMAS COMBINADOS
 
+5. programa que reciba un número y determine si es:positivo,negativo,cero,usando if else.
+
+   <img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/1f304b6f-2141-4225-ba69-a8cac275fd82" />
+
+6. Tabla de multiplicar de un número usando for
+    val tablaDel = 7
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/0a3e96a0-df3b-42ae-b938-fd0b1f52dadd" />
+
+  7. Crea un programa que use when para mostrar el nivel de un estudiante según su nota:
+
+     <img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/d45f5ebe-5289-4409-b682-be8aea8aeb3d" />
+
+
+   
+
+
 
 
 
